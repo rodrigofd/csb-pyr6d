@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rodrigofd.github.io/csb-pyr6d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rodrigofd.github.io/csb-pyr6d/static/js/main.c5f61bdd.chunk.js",
+    "main.js.map": "https://rodrigofd.github.io/csb-pyr6d/static/js/main.c5f61bdd.chunk.js.map",
+    "runtime-main.js": "https://rodrigofd.github.io/csb-pyr6d/static/js/runtime-main.3c82dc56.js",
+    "runtime-main.js.map": "https://rodrigofd.github.io/csb-pyr6d/static/js/runtime-main.3c82dc56.js.map",
+    "static/js/2.2350909c.chunk.js": "https://rodrigofd.github.io/csb-pyr6d/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://rodrigofd.github.io/csb-pyr6d/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://rodrigofd.github.io/csb-pyr6d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rodrigofd.github.io/csb-pyr6d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://rodrigofd.github.io/csb-pyr6d/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c82dc56.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c5f61bdd.chunk.js"
+  ]
+}
